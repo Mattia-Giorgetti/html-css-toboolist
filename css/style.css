@@ -1,0 +1,56 @@
+/* General */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Header */
+
+h1 {
+    display: inline-block;
+}
+header {
+    height: 100px;
+}
+header img {
+    margin: 15px 15px;
+}
+
+/* Main  */
+.gray-box {
+    height: 700px;
+    background-color: lightgray;
+
+}
+.box-1 {
+    width: 70%;
+    background-color: white;
+    margin: auto;
+    border-radius: 5px
+}
+
+/* Button section */
+.blue-but {
+    padding: 5px 8px;
+    color:white;
+    background-color: lightblue;
+    border: none;
+    border-radius: 5px; 
+    margin: 10px 5px 10px 30px;
+}
+
+.white-but {
+    padding: 5px 8px;
+    color: gray;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+/* List section */
+
+.main-list {
+    padding-top: 20px;
+    margin: 2px 0 0 30px;
+}
