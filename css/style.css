@@ -30,6 +30,7 @@ header img {
 .gray-box {
     height: 600px;
     background-color: lightgray;
+    padding-top: 10px;
 
 }
 .box {
