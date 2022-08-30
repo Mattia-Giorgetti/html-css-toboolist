@@ -10,6 +10,7 @@
 /* Header */
 header {
     height: 100px;
+    width: 100%;
 }
 
 header h1 {
@@ -30,6 +31,12 @@ header img {
     height: 600px;
     background-color: lightgray;
 
+}
+.box {
+    width: 70%;
+    background-color: white;
+    margin: auto;
+    border-radius: 5px
 }
 .box-1 {
     width: 70%;
